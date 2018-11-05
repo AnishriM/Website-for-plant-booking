@@ -1,2 +1,10 @@
-# Website-for-plant-booking
-<b>An online portal where one can book a plant<b> .Implemented by using html , css , js , php , mysql and payment gateway implemented by using instamojo .
+<h1>#Website-for-plant-booking<h1>
+ <b>An online portal where one can book a plant</b>
+ <ol>Implemented by using:
+ <li>html</li> 
+ <li>css</li> 
+ <li>js</li>
+ <li>php</li>
+ <li>mysql</li>
+ <li>payment gateway implemented by using instamojo</li>
+</ol>.
